@@ -72,11 +72,11 @@
 - 接口源：
 
 ```bash
-https://ghproxy.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://hub.gitmirror.com/https://raw.githubusercontent.com/sqzhu520/iptv-api/master/output/result.m3u
 ```
 
 ```bash
-https://ghproxy.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
+https://hub.gitmirror.com/https://raw.githubusercontent.com/sqzhu520/iptv-api/master/output/user_result.txt
 ```
 
 🙏 感谢由[ghproxy.cc](https://ghproxy.cc)提供的代理加速服务
@@ -84,23 +84,13 @@ https://ghproxy.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/r
 或
 
 ```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
-```
-
-```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
+https://ghproxy.cc/https://raw.githubusercontent.com/sqzhu520/iptv-api/master/output/result.txt
 ```
 
 - 数据源：
 
 ```bash
-https://ghproxy.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/source.json
-```
-
-或
-
-```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/source.json
+https://hub.gitmirror.com/https://raw.githubusercontent.com/sqzhu520/iptv-api/master/source.json
 ```
 
 ## 配置
