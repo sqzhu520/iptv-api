@@ -76,7 +76,7 @@ https://hub.gitmirror.com/https://raw.githubusercontent.com/sqzhu520/iptv-api/ma
 ```
 
 ```bash
-https://hub.gitmirror.com/https://raw.githubusercontent.com/sqzhu520/iptv-api/master/output/user_result.txt
+https://hub.gitmirror.com/https://raw.githubusercontent.com/sqzhu520/iptv-api/master/output/result.txt
 ```
 
 🙏 感谢由[ghproxy.cc](https://ghproxy.cc)提供的代理加速服务
