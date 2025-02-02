@@ -1,8 +1,8 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://ghproxy.cc/https://raw.githubusercontent.com/sqzhu520/jiangsu-iptv/main/iptv_js.txt
-https://hub.gitmirror.com/https://raw.githubusercontent.com/sqzhu520/jiangsu-iptv/main/iptv_js.txt
+https://ghproxy.cc/https://raw.githubusercontent.com/sqzhu520/jiangsu-iptv/main/jscu-iptv.txt
+https://hub.gitmirror.com/https://raw.githubusercontent.com/sqzhu520/jiangsu-iptv/main/jscu-iptv.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
