@@ -1,8 +1,13 @@
 📺央视频道,#genre#
+CCTV-4,https://httop.top/ysp-cctv4
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-5,https://httop.top/ysp-cctv5
+CCTV-12,https://httop.top/ysp-cctv12
 CCTV-13,http://106.53.99.30/tv/cctv13.php
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
+CCTV-16,https://httop.top/ysp-cctv16
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
+CCTV-17,https://httop.top/ysp-cctv17
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 CETV-1,https://httop.top/ysp-cetv1
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
@@ -13,6 +18,8 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+内蒙古卫视,http://218.8.87.96:4000/rtp/229.58.190.183:5000
+宁夏卫视,https://httop.top/ysp-宁夏卫视
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 
 🌊港·澳·台,#genre#
@@ -61,6 +68,7 @@ IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 
 🪁动画频道,#genre#
+少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
 少儿动画,http://1b6467f415.iok.la:9931/tsfile/live/1057_1.m3u8
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
@@ -70,7 +78,6 @@ IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 少儿动画,rtsp://115.153.212.72/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
-少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
@@ -81,13 +88,23 @@ IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
+炫动卡通,http://218.15.183.23:9901/tsfile/live/23042_1.m3u8
+炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0
 炫动卡通,http://1b6467f415.iok.la:9931/tsfile/live/1056_1.m3u8
+炫动卡通,rtsp://118.212.169.207:554/PLTV/88888888/224/3221226968/10000100000000060000000000568712_0.smil
+炫动卡通,rtsp://115.153.245.70/PLTV/88888888/224/3221225583/iptv7982.smil
+炫动卡通,rtsp://115.153.254.81/PLTV/88888888/224/3221225583/iptv7982.smil
+炫动卡通,rtsp://115.153.240.228:554/PLTV/88888888/224/3221225583/iptv7982.smil
+炫动卡通,rtsp://115.153.212.72/PLTV/88888888/224/3221225583/iptv7982.smil
+炫动卡通,rtsp://115.153.247.80/PLTV/88888888/224/3221225583/iptv7982.smil
+炫动卡通,rtsp://115.153.230.145/PLTV/88888888/224/3221225583/iptv7982.smil
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎮游戏频道,#genre#
 游戏竞技,http://ygbh.site/php/bfgd.php?id=296
+海看电竞,http://139.129.231.228/rtp/239.21.1.135:5002
 
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2025-10-17 06:21:35,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-10-17 18:28:06,https://httop.top/ysp-cctv4
