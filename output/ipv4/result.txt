@@ -2,18 +2,23 @@
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-10,http://220.170.241.204:9901/tsfile/live/0010_1.m3u8
+CCTV-6,http://111.221.137.155:44330/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
+CETV-1,http://183.184.47.145:8001/rtp/226.0.2.181:9360
 CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+广东卫视,http://sh.lnott.top:880/dx40.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+吉林卫视,http://sh.lnott.top:880/dx37.m3u8
+吉林卫视,http://111.221.137.155:44330/tsfile/live/0017_1.m3u8?key=txiptv
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+天津卫视,http://sh.lnott.top:880/dx30.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
@@ -33,8 +38,8 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
 🎬电影频道,#genre#
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
@@ -57,6 +62,15 @@ IPTV经典电影,http://113.88.211.3:9898/hls/71/index.m3u8
 
 🪁动画频道,#genre#
 少儿动画,http://114.252.126.226:8899/hls/32/index.m3u8
+少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
+少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
+少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.240.228:554/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.212.72/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
@@ -77,7 +91,6 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 炫动卡通,rtsp://115.153.247.80/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.230.145/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.222.112:554/PLTV/88888888/224/3221225583/iptv7982.smil
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 七龙珠,http://live.nctv.top/huya.php?id=11601966
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
@@ -87,4 +100,4 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2025-11-11 06:27:13,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+2025-11-11 18:30:25,http://171.116.216.113:10010/rtp/226.0.1.157:3086
