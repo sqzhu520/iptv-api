@@ -12,7 +12,10 @@ CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 CCTV-15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+CETV-1,https://iptv.catvod.com/live.php?id=CETV1&line=1
 CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
+CETV-2,https://iptv.catvod.com/live.php?id=CETV2&line=1
+CETV-4,https://iptv.catvod.com/live.php?id=CETV4&line=1
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
@@ -31,12 +34,12 @@ CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-湖北卫视,http://23.237.228.134/live6/hubei.m3u8
 湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+湖北卫视,http://23.237.228.134/live6/hubei.m3u8
 安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
@@ -51,6 +54,7 @@ CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
+山西卫视,http://153.0.171.163:9901/tsfile/live/0118_1.m3u8
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
 四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
@@ -76,8 +80,8 @@ IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 
 🏀体育频道,#genre#
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
-天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 天津体育,http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
+天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 快乐垂钓,https://iptv.catvod.com/live.php?id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&line=1
 
 🪁动画频道,#genre#
@@ -110,4 +114,4 @@ IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 闯关东,http://43.251.226.89:8080/play/1731.m3u8
 
 🕘️更新时间,#genre#
-2026-02-12 06:58:14,http://23.237.228.134/live5/CCTV1.m3u8
+2026-02-12 18:56:22,http://23.237.228.134/live5/CCTV1.m3u8
