@@ -1,53 +1,44 @@
 📺央视频道,#genre#
 CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
-CCTV-1,http://101.66.198.102:9901/tsfile/live/0001_1.m3u8
 CCTV-2,http://198.204.228.26/live/cctv2hd.m3u8
-CCTV-2,http://101.66.198.224:9901/tsfile/live/0002_1.m3u8
+CCTV-2,http://183.223.157.33:9901/tsfile/live/0002_1.m3u8
 CCTV-3,http://198.204.228.26/live/cctv3hd.m3u8
 CCTV-5,http://198.204.228.26/live/cctv5hd.m3u8
-CCTV-5,http://101.66.198.224:9901/tsfile/live/0005_1.m3u8
-CCTV-6,http://101.66.198.233:9901/tsfile/live/0006_1.m3u8
-CCTV-6,http://101.66.198.224:9901/tsfile/live/0006_1.m3u8
-CCTV-7,http://101.66.198.233:9901/tsfile/live/0007_1.m3u8
-CCTV-8,http://101.66.198.233:9901/tsfile/live/0008_1.m3u8
 CCTV-9,http://192.151.150.154/live/cctv9hd.m3u8
+CCTV-9,http://183.223.157.33:9901/tsfile/live/0009_1.m3u8
+CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=73b69ea221be0bd00d6e465f10653101
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+CCTV-10,http://183.223.157.33:9901/tsfile/live/0010_1.m3u8
 CCTV-10,http://101.66.198.102:9901/tsfile/live/0010_1.m3u8
-CCTV-11,http://101.66.198.224:9901/tsfile/live/0011_1.m3u8
 CCTV-12,http://192.151.150.154/live/cctv12hd.m3u8
-CCTV-12,http://101.66.198.102:9901/tsfile/live/0012_1.m3u8
 CCTV-12,http://101.66.198.233:9901/tsfile/live/0012_1.m3u8
-CCTV-13,http://101.66.198.224:9901/tsfile/live/0013_1.m3u8
+CCTV-13,http://183.223.157.33:9901/tsfile/live/0013_1.m3u8
 CCTV-15,http://192.151.150.154/live/cctv15hd.m3u8
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
+CETV-2,https://iptv.catvod.com/catvod?id=CETV2&line=4
 
 📡卫视频道,#genre#
-广东卫视,http://101.66.198.224:9901/tsfile/live/0125_1.m3u8
 湖南卫视,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
+湖南卫视,http://183.223.157.33:9901/tsfile/live/0019_1.m3u8
 湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
-安徽卫视,http://101.66.198.233:9901/tsfile/live/0130_1.m3u8
 重庆卫视,http://101.66.198.233:9901/tsfile/live/0142_1.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-东方卫视,http://101.66.198.233:9901/tsfile/live/0018_1.m3u8
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 贵州卫视,http://101.66.198.233:9901/tsfile/live/0120_1.m3u8
-江苏卫视,http://101.66.198.233:9901/tsfile/live/0017_1.m3u8
-江苏卫视,http://101.66.198.102:9901/tsfile/live/0017_1.m3u8
-内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
 内蒙古卫视,http://198.204.228.26/live/nmgws.m3u8
-宁夏卫视,http://107.150.60.122/live/nxws.m3u8
+内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
 宁夏卫视,http://192.151.150.154/live/nxws.m3u8
+宁夏卫视,http://107.150.60.122/live/nxws.m3u8
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
-山东卫视,http://101.66.198.224:9901/tsfile/live/0131_1.m3u8
+四川卫视,http://183.223.157.33:9901/tsfile/live/0123_1.m3u8
 四川卫视,http://101.66.198.102:9901/tsfile/live/0123_1.m3u8
 三沙卫视,http://198.204.228.26/live/ssws.m3u8
 三沙卫视,http://192.151.150.154/live/ssws.m3u8
 新疆卫视,http://192.151.150.154/live/xjws.m3u8
 新疆卫视,http://198.204.228.26/live/xjws.m3u8
 新疆卫视,http://107.150.60.122/live/xjws.m3u8
-云南卫视,http://101.66.198.224:9901/tsfile/live/0119_1.m3u8
-云南卫视,http://101.66.198.102:9901/tsfile/live/0119_1.m3u8
 云南卫视,http://101.66.198.233:9901/tsfile/live/0119_1.m3u8
+云南卫视,http://101.66.198.102:9901/tsfile/live/0119_1.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://demo2.anj365.com/live/xiangjiaoge-fc
@@ -85,8 +76,8 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 优漫卡通,https://iptv.catvod.com/catvod?id=%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93&line=1
 炫动卡通,http://120.198.95.220:9901/tsfile/live/1034_1.m3u8?key=txiptv
-炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0
 炫动卡通,http://218.15.183.23:9901/tsfile/live/23042_1.m3u8
+炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0
 炫动卡通,rtsp://118.212.169.207:554/PLTV/88888888/224/3221226968/10000100000000060000000000568712_0.smil
 炫动卡通,rtsp://115.153.245.70/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.254.81/PLTV/88888888/224/3221225583/iptv7982.smil
@@ -100,4 +91,4 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2026-05-12 07:03:15,http://198.204.228.26/live/cctv1hd.m3u8
+2026-05-12 20:07:45,http://198.204.228.26/live/cctv1hd.m3u8
