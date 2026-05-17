@@ -4,33 +4,43 @@ CCTV-2,http://198.204.228.26/live/cctv2hd.m3u8
 CCTV-3,http://198.204.228.26/live/cctv3hd.m3u8
 CCTV-5,http://198.204.228.26/live/cctv5hd.m3u8
 CCTV-9,http://192.151.150.154/live/cctv9hd.m3u8
+CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=12e324365e5fe37f99c3757e36709fd0
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-12,http://192.151.150.154/live/cctv12hd.m3u8
+CCTV-13,http://pull-flv-f11.douyinliving.com/media/stream-695829341161128786.flv?expire=1779443980&sign=c106414455c8c02057b64f5998b0be08&neq=1&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&unique_id=stream-695829341161128786_850_flv&t_id=037-20260515175939F18DD3216651B74A5447-FdVP5L
 CCTV-15,http://192.151.150.154/live/cctv15hd.m3u8
+CCTV-16,http://207.56.13.146:81/cdnlive/cctv16.m3u8
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
+文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=1b41fb9153cba3ee19bd5d1b323da27e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+风云音乐,http://107.150.60.122/live/fyyy.m3u8
+第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 第一剧场,http://107.150.60.122/live/dyjc.m3u8
+风云剧场,https://live.264788.xyz/channel/fengyunjuchang?streamid=fb9584fe15e1e0bb2a733656352904fe&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+风云剧场,http://207.56.13.146:81/cdnlive/fyjc.m3u8
+怀旧剧场,https://live.264788.xyz/channel/huaijiujuchang?streamid=7f368c23f1a4403746cbcbb75e4b9ac3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+女性时尚,https://live.264788.xyz/channel/nvxingshishang?streamid=c4f2ed43508ea460b381e85ffd11c59f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 世界地理,http://107.150.60.122/live/sjdl.m3u8
+兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 📡卫视频道,#genre#
-湖南卫视,http://59.39.89.130:60901/tsfile/live/0125_2.m3u8
-北京卫视,https://iptv.catvod.com/catvod?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=5
+广东卫视,http://207.56.13.146:81/cdnlive/gdws.m3u8
 湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
+甘肃卫视,http://207.56.13.146:81/cdnlive/gsws.m3u8
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
-贵州卫视,http://59.39.89.130:60901/tsfile/live/0125_15.m3u8
-吉林卫视,http://59.39.89.130:60901/tsfile/live/0125_19.m3u8
-辽宁卫视,http://59.39.89.130:60901/tsfile/live/0125_13.m3u8
+河南卫视,https://live.264788.xyz/channel/henanweishi?streamid=dcdac731c38e259d3931e4f3127849c4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
+宁夏卫视,http://192.151.150.154/live/nxws.m3u8
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
 宁夏卫视,http://107.150.60.122/live/nxws.m3u8
-宁夏卫视,http://192.151.150.154/live/nxws.m3u8
-四川卫视,http://59.39.89.130:60901/tsfile/live/0125_16.m3u8
+青海卫视,https://live.264788.xyz/channel/qinghaiweishi?streamid=dc714dc6b6f61be169ea786a2dd7572d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 深圳卫视,http://192.151.150.154/live/szwshd.m3u8
-深圳卫视,http://59.39.89.130:60901/tsfile/live/0125_11.m3u8
-三沙卫视,http://198.204.228.26/live/ssws.m3u8
+三沙卫视,https://live.264788.xyz/channel/sanshaweishi?streamid=d0a3642d102c45219333005531a2fc94&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 三沙卫视,http://192.151.150.154/live/ssws.m3u8
-新疆卫视,http://198.204.228.26/live/xjws.m3u8
+三沙卫视,http://198.204.228.26/live/ssws.m3u8
 新疆卫视,http://107.150.60.122/live/xjws.m3u8
 新疆卫视,http://192.151.150.154/live/xjws.m3u8
+新疆卫视,http://198.204.228.26/live/xjws.m3u8
 云南卫视,http://192.151.150.154/live/ynwshd.m3u8
 
 🌊港·澳·台,#genre#
@@ -59,8 +69,8 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🪁动画频道,#genre#
-少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
+少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
 少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
@@ -70,8 +80,6 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 新动漫,https://iptv.catvod.com/catvod?id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=4
-金鹰卡通,http://125.42.150.192:9901/tsfile/live/0107_1.m3u8
-金鹰卡通,http://125.42.150.130:9901/tsfile/live/0107_1.m3u8
 炫动卡通,http://120.198.95.220:9901/tsfile/live/1034_1.m3u8?key=txiptv
 炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0
 炫动卡通,http://218.15.183.23:9901/tsfile/live/23042_1.m3u8
@@ -88,4 +96,4 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2026-05-17 06:55:21,http://198.204.228.26/live/cctv1hd.m3u8
+2026-05-17 19:15:12,http://198.204.228.26/live/cctv1hd.m3u8
