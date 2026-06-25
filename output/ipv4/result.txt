@@ -1,14 +1,19 @@
 📺央视频道,#genre#
+CCTV-5,http://223.75.149.129:9906/tsfile/live/0005_1.m3u8?key=txiptv
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
+CCTV-6,http://223.75.149.129:9906/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
+CCTV-10,http://173.208.212.130:8181/720p/cctv10.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-12,http://192.151.150.154/live/cctv12hd.m3u8
 CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696031215627010898/playlist.m3u8?keeptime=00093a80&wsSecret=1bebd13d7482ab1a6f4971ff549fa2e0&wsTime=6a349a1b&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&t_id=037-20260619092339689A6E65E32436425877-oeHxgW
-CCTV-15,http://192.151.150.154/live/cctv15hd.m3u8
+CCTV-16,http://173.208.212.130:8181/720p/cctv16.m3u8
+文化精品,http://192.151.150.154/live/ysjp.m3u8
 
 📡卫视频道,#genre#
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
+湖北卫视,http://223.75.149.129:9906/tsfile/live/0132_1.m3u8?key=txiptv
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
+河南卫视,http://204.12.221.218:8181/3m1080p/haws.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
 三沙卫视,http://198.204.228.26/live/ssws.m3u8
 
@@ -19,8 +24,8 @@ CCTV-15,http://192.151.150.154/live/cctv15hd.m3u8
 凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
 
 🎬电影频道,#genre#
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
@@ -61,4 +66,4 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2026-06-25 07:11:17,http://www.negative.top:50000/rtp/233.50.200.109:5140
+2026-06-25 20:27:52,http://223.75.149.129:9906/tsfile/live/0005_1.m3u8?key=txiptv
